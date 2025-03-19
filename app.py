@@ -1,3 +1,6 @@
+# Name: Edward T. Lopez.
+# Date: March 18, 2025
+# Project Name: Chatty
 
 # Greet your customer and introduce the ChatBot.
 print("")
@@ -9,7 +12,7 @@ print()
 print("====================================================================")
 print()
 
-if learn_more == 'y' or learn_more == 'Y' or learn_more == "product" or learn_more == "service":
+if learn_more == 'y' or learn_more == 'Y' or learn_more == "yes" or learn_more == "product" or learn_more == "service":
     print("💡 We are an AI company but we like to think of ourselves as companions. \n \n We take smart devices and make them smarter. \n \n Our biggest seller is our phone. \n \n Equipped with features that free up time and energy for our customers rather than weigh them down with more and more selling and tracking. \n \n We believe in doing the work of allowing our customers to live a more freedom filled life to the point where they don't need us. \n \n That's how they know we are doing our job. \n \n At the end of each night, we silently send a report on what we noticed throughout the day and what we assisted with. \n \n We only improve as our customers lives improve. That's it!\n")
 
     print()
